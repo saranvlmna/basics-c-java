@@ -6,10 +6,10 @@ int main(void)
     printf("Enter a Numbers");
     scanf("%d",&num);
     if(num<0)
-       printf("%d is Negative Number",num);
+       printf(" is Negative Number%d",num);
     }
     else{
-        printf("%d is Positive Number",num);
+        printf(" is Positive Number%d",num);
     }
     return EXIT_SUCCESS;
 }
