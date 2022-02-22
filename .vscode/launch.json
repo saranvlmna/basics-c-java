@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch loop_totalnumber",
+            "request": "launch",
+            "mainClass": "for_loop.loop_totalnumber",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch loop_totalnumber",
+            "request": "launch",
+            "mainClass": "loop_totalnumber",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
             "name": "Launch else_if_ladder",
             "request": "launch",
             "mainClass": "else_if_ladder",
