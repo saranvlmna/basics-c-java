@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch non_static",
+            "request": "launch",
+            "mainClass": "non_static",
+            "projectName": "basic_programing_c51d5a0f"
+        },
+        {
+            "type": "java",
+            "name": "Launch sample",
+            "request": "launch",
+            "mainClass": "sample",
+            "projectName": "basic_programing_c51d5a0f"
+        },
+        {
+            "type": "java",
+            "name": "Launch static_",
+            "request": "launch",
+            "mainClass": "static_",
+            "projectName": "basic_programing_c51d5a0f"
+        },
+        {
+            "type": "java",
             "name": "Launch sum",
             "request": "launch",
             "mainClass": "sum.sum",
