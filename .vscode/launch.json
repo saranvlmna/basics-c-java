@@ -6,9 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch if_else",
+            "request": "launch",
+            "mainClass": "if_else",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
             "name": "Launch sample",
             "request": "launch",
-            "mainClass": "sample.sample"
+            "mainClass": "sample",
+            "projectName": "basic_programing_b9e5bc76"
         },
         {
             "name": "gcc-9 - Build and debug active file",
