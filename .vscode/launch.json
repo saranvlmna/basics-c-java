@@ -5,6 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch sample",
+            "request": "launch",
+            "mainClass": "sample.sample"
+        },
+        {
             "name": "gcc-9 - Build and debug active file",
             "type": "cppdbg",
             "request": "launch",
