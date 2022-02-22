@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch main_display_sample",
+            "request": "launch",
+            "mainClass": "main_display_sample",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch main_class_sample",
+            "request": "launch",
+            "mainClass": "main_class_sample",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
             "name": "Launch funtion_Without_returnvalue",
             "request": "launch",
             "mainClass": "funtion_Without_returnvalue",

@@ -4,6 +4,7 @@
         "type_traits": "c"
     },
     "java.project.sourcePaths": [
-        "JAVA/Function"
+        "JAVA/Function",
+        "JAVA/Classs_Object"
     ]
 }
