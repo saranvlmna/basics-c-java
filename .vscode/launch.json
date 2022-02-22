@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch funtion_Without_returnvalue",
+            "request": "launch",
+            "mainClass": "funtion_Without_returnvalue",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch function_sample",
+            "request": "launch",
+            "mainClass": "function_sample",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array_serch",
+            "request": "launch",
+            "mainClass": "Array_serch",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch array_sample",
+            "request": "launch",
+            "mainClass": "array_sample",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
             "name": "Launch loop_totalnumber",
             "request": "launch",
             "mainClass": "for_loop.loop_totalnumber",
