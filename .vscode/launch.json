@@ -9,6 +9,13 @@
             "name": "Launch main_display_sample",
             "request": "launch",
             "mainClass": "main_display_sample",
+            "projectName": "basic_programing_c51d5a0f"
+        },
+        {
+            "type": "java",
+            "name": "Launch main_display_sample",
+            "request": "launch",
+            "mainClass": "main_display_sample",
             "projectName": "basic_programing_b9e5bc76"
         },
         {

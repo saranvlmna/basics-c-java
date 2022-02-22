@@ -1,8 +1,11 @@
 public class display_sample {
+    // create variables in claas
     int a;
-    int b;
+    int b; 
+    int c;
 
-    void display(){
-        System.out.println(" a "+a +"  b " +b);
+    // print
+    void display() {
+        System.out.println(" a " + a + "  b " + b + " c "+c);
     }
 }
