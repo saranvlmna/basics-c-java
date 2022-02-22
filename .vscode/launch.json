@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch else_if_ladder",
+            "request": "launch",
+            "mainClass": "else_if_ladder",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch nested_if",
+            "request": "launch",
+            "mainClass": "nested_if",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
             "name": "Launch if_else",
             "request": "launch",
             "mainClass": "if_else",
