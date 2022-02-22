@@ -5,6 +5,7 @@
     },
     "java.project.sourcePaths": [
         "JAVA/Function",
-        "JAVA/Classs_Object"
+        "JAVA/Classs_Object",
+        "JAVA/sample"
     ]
 }
