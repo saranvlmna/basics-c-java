@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sort",
+            "request": "launch",
+            "mainClass": "sort",
+            "projectName": "basic_programing_c51d5a0f"
+        },
+        {
+            "type": "java",
             "name": "Launch non_static",
             "request": "launch",
             "mainClass": "non_static",

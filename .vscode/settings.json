@@ -4,8 +4,9 @@
         "type_traits": "c"
     },
     "java.project.sourcePaths": [
+        "JAVA/sample",
         "JAVA/Function",
         "JAVA/Classs_Object",
-        "JAVA/sample"
+        "JAVA/Array"
     ]
 }
