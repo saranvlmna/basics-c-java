@@ -6,6 +6,7 @@ public class static_ {
         // System.out.println(""+a);
         // System.out.println(""+hi);
      sample();
+     
     }
 
     // void sample(){    Error only access static method or static variable in a static method 

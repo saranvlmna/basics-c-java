@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "inheritance.sample1.main",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "inheritance.main",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "this_sample.main",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "constructor.main",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "multipleclass.main",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
             "name": "Launch sort",
             "request": "launch",
             "mainClass": "sort",
