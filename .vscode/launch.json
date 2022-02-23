@@ -6,17 +6,31 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch super_main",
+            "name": "Launch main",
             "request": "launch",
-            "mainClass": "super_main",
-            "projectName": "basic_programing_c51d5a0f"
+            "mainClass": "mutlti_class_object_passing.main",
+            "projectName": "basic_programing_b9e5bc76"
         },
         {
             "type": "java",
-            "name": "Launch methodOverRiding",
+            "name": "Launch string",
             "request": "launch",
-            "mainClass": "methodOverRiding",
-            "projectName": "basic_programing_c51d5a0f"
+            "mainClass": "String.string",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch super_second",
+            "request": "launch",
+            "mainClass": "Polymophism.Super.super_second",
+            "projectName": "basic_programing_b9e5bc76"
+        },
+        {
+            "type": "java",
+            "name": "Launch super_second",
+            "request": "launch",
+            "mainClass": "Polymophism.super_second",
+            "projectName": "basic_programing_b9e5bc76"
         },
         {
             "type": "java",
