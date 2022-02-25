@@ -1,3 +1,5 @@
+package Thread;
+
 public class sample {
     public static void main(String ar[]) {
         //create sample thead object

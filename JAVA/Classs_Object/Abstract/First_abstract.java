@@ -1,3 +1,5 @@
+package Abstract;
+
 public class First_abstract {
     // create object
     Main_abstract obj;

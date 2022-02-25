@@ -1,3 +1,5 @@
+package Abstract;
+
 //inhert abstract class
 // not create object in abstract class only inheritns
 public class Sample_abstract extends Main_abstract{

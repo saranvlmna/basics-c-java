@@ -1,3 +1,5 @@
+package Thread.runnable_interface;
+
 public class Sample {
     public static void main(String[] args) {
         // Create Object of sample_main

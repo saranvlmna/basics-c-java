@@ -1,3 +1,5 @@
+package Abstract;
+
 public abstract class Main_abstract{
 //call a abstract function with object
 //abstract class support fuction delaration and defanition

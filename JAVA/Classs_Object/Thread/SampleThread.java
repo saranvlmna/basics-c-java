@@ -1,3 +1,5 @@
+package Thread;
+
 //create thread class
 public class SampleThread extends Thread{
     //override run method
